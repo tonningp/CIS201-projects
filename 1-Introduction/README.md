@@ -8,4 +8,8 @@
 * To recognize syntax and logic errors
 * To understand the notion of an algorithm
 
-[markdown-it]: <https://github.com/markdown-it/markdown-it>
+## Example Code
+* [hello world example]
+
+
+[hello world example]: <example/hello>
