@@ -62,5 +62,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
+# Miscellaneous
+# vi swap files
+*.swp
 # End of https://www.gitignore.io/api/c++,macos
