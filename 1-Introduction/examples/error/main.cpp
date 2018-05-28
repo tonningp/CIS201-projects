@@ -10,7 +10,7 @@ make main
 
 */
 
-#include<iostream>
+#include <iostream>
 
 int main()
 {

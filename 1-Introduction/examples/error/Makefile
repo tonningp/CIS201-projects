@@ -4,6 +4,9 @@ main: main.cpp
 run: main
 	@./main
 
+edit:
+	@vim main.cpp
+
 clean:
 	@rm ./main
 

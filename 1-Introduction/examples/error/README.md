@@ -1,5 +1,5 @@
-# Famous Hello World program
+# Errors in program
 
-To compile and run the program:
+To compile and see the errors
 
    g++ -o main main.cpp
