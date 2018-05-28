@@ -5,7 +5,7 @@ run: main
 	@./main
 
 clean:
-	@rm ./main ./main.s
+	@rm ./main
 
 assembly: 
 	g++ -S main.cpp

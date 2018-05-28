@@ -16,5 +16,4 @@
 
 [hello world example]: <examples/hello>
 
-[The von Neumann Architecture of Computer
-Systems]:<http://www-scf.usc.edu/~inf520/downloads/The%20von%20Neumann%20Architecture%20of%20Computer%20Systems.pdf>
+[The von Neumann Architecture of Computer Systems]: <http://www-scf.usc.edu/~inf520/downloads/The%20von%20Neumann%20Architecture%20of%20Computer%20Systems.pdf>
