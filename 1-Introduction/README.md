@@ -2,7 +2,7 @@
 ## Objectives
 * To understand the activity of programming
 * To learn about the architecture of computers
- * [The von Neumann Architecture of Computer Systems]
+  * [The von Neumann Architecture of Computer Systems]
 * To learn about machine languages and higher-level programming languages
 * To become familiar with your compiler
 * To compile and run your first C++ program
