@@ -12,4 +12,4 @@
 * [hello world example]
 
 
-[hello world example]: <example/hello>
+[hello world example]: <examples/hello>
