@@ -7,3 +7,5 @@
 * To compile and run your first C++ program
 * To recognize syntax and logic errors
 * To understand the notion of an algorithm
+
+[markdown-it]: <https://github.com/markdown-it/markdown-it>
