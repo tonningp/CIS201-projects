@@ -11,6 +11,10 @@ assembly:
 	g++ -S main.cpp
 	less main.s
 
+edit: 
+	vim main.cpp	
+	
+
 view: main.cpp
 	less main.cpp
 
