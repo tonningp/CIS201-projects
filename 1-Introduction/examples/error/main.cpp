@@ -4,7 +4,7 @@ Description: Simple Hello World program
 Author: Paul Tonning
 
 Notes:
-To compile this example, run the following from the command line:
+Fix the errors in this code
 
 make main
 
@@ -14,7 +14,6 @@ make main
 
 int main()
 {
-   std::cout << "Hello" << std::endl;
-
-   return 0;
+    std::cout << "Hello" << std::endl;
+    return 0;
 }

@@ -1,2 +1,5 @@
 # CIS201-projects
-In this project repository, all of the projects for the semester will be placed.
+
+In this project repository the example projects from the CIS201 class will be added 
+
+
